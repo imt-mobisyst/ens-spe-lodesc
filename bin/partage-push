@@ -1,0 +1,4 @@
+#!/bin/bash
+
+cp 2.2.4-seminaire-2024/programe-construction.md \
+  ./shared-partage/2.2.4\ Evenements\ internes\ IMT/2024\ -\ Séminaire\ Data\ IA\ 2024/
