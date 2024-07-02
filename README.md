@@ -1,15 +1,14 @@
-# Enseignement de Spécialité: LoDeSC sur le Parcours FISE RAISE.
+# Spécialité: Logiciel et Decision pour les Systèmes Complexes
 
+Enseignement LoDeSC sur le Parcours FISE RAISE.
 Répertoire de travail de la spécialité.
 
 Articulé sur 3 UVs.
-
 
 ## UV LDI - Logiciels Distribués et Intelligents (Total de 96h dont 76h encadrées)  
 - Responsable : Guillaume Lozenguez
 
 Cette UV explore les outils théoriques et numériques permettant d’analyser, modéliser et résoudre les problèmes complexes rencontrés dans de nombreux domaines (transport, industrie, robotique…) : 
-
 
 
 ## UV MAPS - Modèles & Algorithmes pour l'oPtimisation de Systèmes complexes (4 semaines, total de 96h dont 76h encadrées)  
