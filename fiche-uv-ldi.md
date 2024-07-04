@@ -16,7 +16,7 @@ L'UV repose sur 3 Modules:
 Aborder les outils du génie logiciel utile au dévelopement d'IA distriué et intérogé comment l'IA peut aider au developement logiciel.
 
 - **Intervenants:** Luc Fabresse - Noury Bouracadi - Guillaume Lozenguez
-- **Modalité:** Cours-TD 32 heures
+- **Modalité:** Cours-TD 27 heures - Travaille en autonomie 5 heure.
 - **Évaluation:** Devoir sur Table, TP noté.
 - **Notions abordée:** 
   * Les outils indispenssable au dev. d'IA: Test-Driven, Benchmark, Versionning.
@@ -41,7 +41,7 @@ Introduires la modélisation basé agents ainsi que simulation multi-agents. Apr
 Partir d'un énoncé pour définir formellement un probléme. Introduire des techimque de formalisations et de résolution.
 
 - **Intervenants:** Jerry LonLac - Arnaud Doniec - Franck Tempet
-- **Modalité:** Cours-TD 22 heures - Projet en autonomie 10 heures
+- **Modalité:** Cours-TD 27 heures - Travaille en autonomie 5 heure.
 - **Évaluation:** Devoir sur table, Projet
 - **Notions abordés:**
   * IA symbolique
