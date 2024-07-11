@@ -3,7 +3,7 @@
 Enseignement LoDeSC sur le Parcours FISE RAISE.
 Répertoire de travail de la spécialité.
 
-Quelque liens: 
+Quelques liens: 
 
 - [ledatascientist.com](https://ledatascientist.com/)
 
