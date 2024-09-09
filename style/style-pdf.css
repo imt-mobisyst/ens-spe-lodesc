@@ -1,0 +1,83 @@
+body {
+  margin: 30pt  80pt  10pt  80pt;
+  background-image:url(logos/logo_imtld.svg);
+  background-repeat:no-repeat;
+  background-position:right top;
+  font-size: 11pt;
+}
+
+h1 {
+  width: 70%;
+  min-height: 84pt;
+  margin-bottom: 24pt;
+  font-size: 18pt;
+}
+
+h2 {
+  color: rgb(0,184,222);
+  font-size: 16pt;
+}
+
+p, li{
+  text-align: justify;
+}
+
+hr {
+  border-width: 0px 0px 1px 0px ; 
+  border-style: dotted; 
+  border-color: rgb(184,184,184);
+  padding-top: 14pt; 
+}
+
+table{
+  margin: 10pt 20pt 5pt 20pt ;
+  border-collapse:collapse;
+}
+
+table tr{
+  border-width: 1px 0px 1px 0px ; 
+  border-style:solid; 
+  border-color:rgb(184,184,184);
+  min-width: 20pt;
+}
+
+table tr:first-child{
+  border-width: 0pt 0pt 1pt 0pt ; 
+}
+
+table tr td{
+  border-width: 0pt 1pt 0pt 1pt ; 
+  border-style:solid; 
+  border-color:rgb(184,184,184);
+  padding: 5pt;
+  min-width: 20pt;
+}
+
+.pagebreak {
+  page-break-before: always;
+}
+
+.figure{
+	margin-left: auto;
+	text-align: center;
+}
+
+#signature {
+	padding: 0pt 0pt 14pt 0pt;
+}
+
+#signature h4{
+  margin: 28pt 0pt 4pt 0pt;
+}
+
+#signature p{
+  margin: 2pt 0pt 2pt 0pt;
+  color:rgb(12,35,64);
+}
+#signature a{
+  color: rgb(242,169,0);
+}
+#signature img{
+  width: 162pt;
+  margin: 10pt;
+}

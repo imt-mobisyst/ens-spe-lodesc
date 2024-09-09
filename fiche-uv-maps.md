@@ -5,37 +5,89 @@ Cette UV s’intéressent à la mise en œuvre de modèles et d’algorithmes po
 
 Cette UV se structurent sur 3 modules: 
 
+---
+
+
 ## Formalisation et résolution de problèmes: (32 heures)
 
-Partir d'un énoncé pour définir formellement un probléme.
-Introduire des techimque de formalisations et de résolution.
+**Objectifs de formation :** partir d'un énoncé pour définir formellement un problème.
+Introduire des techniques de formalisation et de résolution.
 
-- **Intervenants:** Jerry LonLac - Arnaud Doniec - Flaviens
-- **Modalité:** Cours-TD 27 heures - Travaille en autonomie 5 heure.
-- **Évaluation:** Devoir sur table, Projet
-- **Notions abordés:**
-  * IA symbolique
-  * Programmation par contrainte
+**Qui :** Jerry - Arnaud - Flavien
+
+**Pré-requis :** Programmation, algorithme, modélisation
+
+---
+
+**Contenu pédagogique :** 
+
+- Théorie des jeux  
+- Système dynamique, sous incertitude (processus décisionnel de Markov)
+- Technique exploratoire (MinMax, Monte-Carlo)
+
+**Modalités pédagogiques :** Cours-TD 24 heures - travaille en autonomie 8 heure.ca
+
+**Modalités d'évaluation :** Devoir - TP
+
+**Matériels / logiciels utilisés :** Salle informatique sous Linux. Environnement VisualStudio (C/C++, CMake, Python).
+
+---
+
 
 ## Techniques de résolution de problème : optimisation combinatoire, solveurs
 
-Ouvrir la boite. Combiner les technique.
 
-- **Intervenants:** Jerry LonLac - Flaviens - Jérémy 
-- **Modalité:** Cours-TD 27 heures - Travaille en autonomie 5 heure.
-- **Évaluation:** Devoir sur table, Projet
-- **Modalité:** Cours-TD 27 heures - Travaille en autonomie 5 heure.
-- **Notions abordés:**
-  * Algo de construction auto d'arbre de décision... 
-  * Meta-Heuristique
+**Objectifs de formation :** Ouvrir la boîte, combiner les techniques d'optimisation combinatoire
 
-## Modélisation et contrôle de systèmes dynamiques. 
+**Qui :** Jerry - Flavien - Jérémie
 
-- **Intervenants:** Guillaume Lozenguez - Franck Tempet
-- **Modalité:** Cours-TD 22 heures - Travaille en autonomie 10 heure.
-- **Évaluation:** Devoir sur table, Projet
-- **Notions abordés:**
-  * Systéme Dynamique, sous incertitude (Processus Decisionnel de Markov)
-  * Théorie des jeux 
-  * Apprentissage par renforcement (Q-Learning)
-  * Technique exploratoire (MinMax)
+**Pré-requis :** 
+
+---
+
+
+**Contenu pédagogique :** 
+
+- Méthodes exactes et approchées 
+- Meta-Heuristique
+- Hybridation
+ 
+**Modalités pédagogiques :** Cours-TD 24 heures - travaille en autonomie 8 heures.
+
+**Modalités d'évaluation :** Devoir - TP
+
+**Matériels / logiciels utilisés :** Salle informatique sous Linux. Environnement VisualStudio (C/C++, CMake, Python).
+
+---
+
+
+## Modélisation et processus de décision
+
+
+**Objectifs de formation :** partir de modélisations discrètes de système dynamique et aller sur les algorithmes permettant de les contrôler.
+
+**Qui :** Guillaume Lozenguez - Franck Tempet, jérémie
+
+**Pré-requis :** Programmation Algorithmie, Base modélisation
+
+---
+
+
+**Contenu pédagogique :** 
+
+- Théorie des jeux
+- Modéle de Décision Markovien
+- Algorythm exploratoires (Monte-carlo)
+
+**Modalités pédagogiques :** Cours-TD 24 heures - Travaille en autonomie 8 heure.
+
+**Modalités d'évaluation :** Devoir - TP
+
+**Matériels / logiciels utilisés :** Salle informatique sous Linux. Environnement VisualStudio (C/C++, CMake, Java, Python).
+
+
+<!-- 
+
+- Parralléle tématique Auto. CF. eric
+
+-->

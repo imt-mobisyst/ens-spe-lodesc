@@ -3,71 +3,81 @@
 - Responsable : **Guillaume Lozenguez**
 - Durée: 76/96 heures.
 
+---
 
-### IA et Géni Logiciel:
-
-Outils du génie logiciel utiles au développement d'IA distribuée et l’IA comme aide au développement logiciel.
-
-**Notions abordées:** 
-
-* Les outils indispenssable au dev. d'IA: Test-Driven, Benchmark, Versionning.
-* Les donnée des logiciels pour l'annalyse par l'IA
-* Architecture Distribués basée services (IA embarqué sur des noeuds, Protocole d'échange de donnée GraphQL).
-
-### Modélisation et Simulation à Base d’Agents:
-
-Introduire la modélisation basée agents ainsi que simulation multi-agents. Expérimenter son intérêt pour appréhender des systèmes complexes.
+### GénIAD : Géni-logiciel au service d'Intelligence Artificiel Distribué
 
 
-**Notions abordées:** 
+**Objectifs de formation :**  Module orienté sur les outils du génie logiciel pour le développement d'IA distribuée. 
 
-* Introduction à la modélisation basé agents
-* Prog Evenementiel / Prog. Orienté Multi-Agent
+**Qui :** LUc, Noury, Guillaume
+
+**Pré-requis :** Connaissance réseau et système, maîtrise programmation et de la POO.
+
+---
+
+
+**Contenu pédagogique :** 
+
+* POO Avancé.
+* Architecture distribuée basée services (IA embarqué sur des noeuds, Protocole d'échange de donnée, REST/GraphQL).
+
+**Modalités pédagogiques :** Cours-TD 27 heures - Travaille en autonomie 5 heures.
+
+**Modalités d'évaluation :** 
+
+**Matériels / logiciels utilisés :** Salle informatique sous Linux. Environnement VisualStudio (C/C++, CMake, Python) - Serveurs (noeuds de calculs, plage IP, abonnement AWS).
+
+
+---
+
+### MeSBAs : Modélisation et Simulation à Base d’Agents:
+
+
+**Objectifs de formation :** Introduire à la modélisation basée agents couplés à la simulation multi-agents. Expérimenter son intérêt pour appréhender des systèmes complexes.
+
+**Qui :** Arnaud, (Noury), Guillaume
+
+**Pré-requis :** Programmation Algorithmie, Base modélisation
+
+---
+
+**Contenu pédagogique :** 
+
+* Introduction à la modélisation basée agents
 * Simulation Multi-Agent
+* Prog Evenementiel / Prog. Orienté Multi-Agent
 
-### de l'Acquisition au Traitement de dOnnée en Milieu contraint
+**Modalités pédagogiques :** Cours-TD 23 heures - Travaille en autonomie 10 heures.
 
-Problèmes d’acquisition (synchronisation, filtrage, fiabilisation) et d'échange de la donnée acquise en milieu contraint (contraintes spatiales, temporelles et calculatoires) en se plaçant dans des cadres applicatifs comme le contexte industriel.
+**Modalités d'évaluation :** Projet
 
-**Notions abordées:** 
+**Matériels / logiciels utilisés :** Salle informatique sous Linux. Environnement VisualStudio (C/C++, CMake, Python).
 
-* Traitement in-situ de la donnée
+---
+
+
+### ATOM: de l'Acquisition au Traitement de dOnnée en Milieu contraint
+
+
+**Objectifs de formation :** Problèmes d’acquisition (synchronisation, filtrage, fiabilisation) et d'échange de la donnée acquise en milieu contraints (contraintes calculatoires de l'environnement observé) en se plaçant dans des cadres applicatifs notamment les contextes industriels, transport.
+
+**Qui :** **Jacques**, Luc / support, Didier, Alexis, Arnaud
+
+**Pré-requis :** Connaissance réseau et système, maîtrise programmation et POO.
+
+---
+
+**Contenu pédagogique :** 
+
+* Acquisition, synchronisation, filtrage de donnée capteur
 * IA embarquée
 * Monitoring (exemple qlik - folium - dash)
 
+**Modalités pédagogiques :** Cours-TD 27 heures - Travaille en autonomie 5 heures.
 
+**Modalités d'évaluation :** Projet
 
+**Matériels / logiciels utilisés :** Salle informatique sous Linux. Environnement VisualStudio (C/C++, CMake, Python). Pi / ESP2
 
-
-
-
-
-
-
-
-
-### Spécificité de la Contexte Industrielle.
-
-
-    Dans une première UV, il serait possible de garder :
-        Acquisition de données et pré-traitements (20 h)
-
-Dans ce cours, serait abordé les problèmes d’acquisition, de synchronisation, de filtrage et de fiabilisation des données industrielles en milieu contraint
-
-        Analyse et optimisation de la Performance Industrielle (40 h => Cours / TD / TP)
-
-Cette partie en aucun cas ne serait une étude théorique des outils de la PI mais une mise ne œuvre de ceux-ci. La partie théorique serait déjà faite.
-
-L’important de cette UV est de permettre aux étudiants de manipuler et de comprendre la théorie sur de cas pratiques simples puis sur des cas plus compliqués à l’aide de logiciels industriels (PREDICT, CSENSE, …)
-
-    Dans une deuxième UV type projet, de proposer des projets orientés PI sur une durée de 36 h / 40 h
-
-
-Comprendre les enjeux de la performance industrielle et aborder les données et les traitement que l'on peut faire 
-Introduire des techimque de formalisations et de résolution.
-
-- **Intervenants:** Didier - Héléne - Jacque
-- **Modalité:** Cours-TD 27 heures - Travaille en autonomie 5 heure.
-- **Évaluation:** Devoir sur table, Projet
-
-
+---
