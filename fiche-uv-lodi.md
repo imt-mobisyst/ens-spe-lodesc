@@ -10,7 +10,7 @@
 
 **Objectifs de formation :**  Module orienté sur les outils du génie logiciel pour le développement d'IA distribuée. 
 
-**Qui :** LUc, Noury, Guillaume
+**Qui :** Luc, Noury, Guillaume
 
 **Pré-requis :** Connaissance réseau et système, maîtrise programmation et de la POO.
 
@@ -79,5 +79,3 @@
 **Modalités d'évaluation :** Projet
 
 **Matériels / logiciels utilisés :** Salle informatique sous Linux. Environnement VisualStudio (C/C++, CMake, Python). Pi / ESP2
-
----
