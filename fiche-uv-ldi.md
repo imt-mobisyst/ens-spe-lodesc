@@ -27,7 +27,7 @@
 
 
 ---
-## MeSBAs : Modélisation et Simulation à Base d’Agents:
+## MSBAs : Modélisation et Simulation à Base d’Agents:
 
 
 **Objectifs de formation :** Introduire à la modélisation basée agents couplés à la simulation multi-agents. Expérimenter son intérêt pour appréhender des systèmes complexes.

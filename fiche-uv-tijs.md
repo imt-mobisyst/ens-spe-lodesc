@@ -1,4 +1,4 @@
-# UV TIJS - application Transport, Industrie, Jeux et autres Systèmes complexes
+# UV TIJS - application Transport, Industrie, Jeux et autres Systèmes-complexes
 
 - Responsable : **Guillaume Lozenguez**
 - 96 heures dont 76h encadrées
@@ -15,7 +15,7 @@ Ils s'encrent sur une des thématiques liées aux systèmes complexes:
 L'UV repose sur 2 modules entrelacés.
 
 ---
-##  DDIA : Développement Data-IA en mode projet
+##  DDIA : Développement Data-IA
 
 
 **Objectifs de formation :**  ce module s'ancre pour chaque élève dans la thématique de leur projet. 
@@ -37,14 +37,14 @@ L'UV repose sur 2 modules entrelacés.
 
 
 ---
-##  DDIA : Développement Data-IA en mode projet
+##  CDIA : Conduite de projet Data-IA
 
 
 **Objectifs de formation :**  ce module s'articule autour du projet thématique en se focalisant sur les problématiques de gestion de projet informatique. 
 
 **Qui :** **Guillaume**, Mathieu
 
-**Pré-requis :** Outils de Dévellopement de paorjet (Test, Versionning)
+**Pré-requis :** Outils de Dévellopement de projet (Test, Versionning)
 
 **Contenu pédagogique :** 
 

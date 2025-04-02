@@ -1,4 +1,4 @@
-# UV MAPS - Modèles & Algorithmes pour l'oPtimisation de Systèmes complexes
+# UV MAPS - Modèles & Algorithmes pour l'Optimisation de Systèmes-complexes
 
 - Responsable : **Jerry Lonlac** 
 - 96 heures dont 76h encadrées
@@ -9,7 +9,7 @@ Cette UV se structurent sur 3 modules:
 
 
 ---
-## Formalisation et résolution de problèmes: (32 heures)
+## FoRProb : Formalisation et résolution de problèmes: (32 heures)
 
 
 **Objectifs de formation :** partir d'un énoncé pour définir formellement un problème.
@@ -33,7 +33,7 @@ Introduire des techniques de formalisation et de résolution.
 
 
 ---
-## Techniques de résolution de problème : optimisation combinatoire, solveurs
+## TeRProb : Techniques de résolution de problème (optimisation combinatoire, solveurs)
 
 
 **Objectifs de formation :** ouvrir la boîte, combiner les techniques d'optimisation combinatoire
@@ -56,20 +56,33 @@ Introduire des techniques de formalisation et de résolution.
 
 
 ---
-## Modélisation et processus de décision
+
+## MCSD : Modélisation et contrôle de système dynamique
 
 
-**Objectifs de formation :** partir de modélisations discrètes de système dynamique et aller sur les algorithmes permettant de les contrôler.
+**Objectifs de formation :** Partir de modélisations discrètes de système dynamique et aller sur les algorithmes permettant de les contrôler.
+
+Go from discrete model of a dynamic system to works on decision-making algorithms.
+
+**Compétences :** Résolution de problèmes de type contrôle de système discret et dynamique
+
+Problem solving type dynamic and discrete system control.
+
 
 **Qui :** **Guillaume** Lozenguez - Franck Tempet, jérémie
 
-**Pré-requis :** Programmation Algorithmie, Base modélisation
+**Pré-requis :** 
 
 **Contenu pédagogique :** 
 
 - Théorie des jeux
 - Modèle de Décision Markovien
 - Algorithme exploratoire (Monte-carlo)
+
+
+- Game Theory
+- Markovian Decision Process
+- Random Search Algorithme (Monte-carlo)
 
 **Modalités pédagogiques :** Cours-TD 24 heures - travaille en autonomie 8 heures.
 
